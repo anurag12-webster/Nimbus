@@ -4,3 +4,9 @@ A lot of time people who are into tech have to manage their passwords, for that 
 This simple tool  can be used  in command line to store and access multiple passwords with just a simple command.
 
 no more chrome.
+
+
+
+
+
+- [ ] add a gemini api for voice and text as well man
